@@ -1,0 +1,7 @@
+C:\Users\David V\Documents\school2019\ObjectOrientedSystems\Warehouse\Warehouse\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\David V\Documents\school2019\ObjectOrientedSystems\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\David V\Documents\school2019\ObjectOrientedSystems\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\David V\Documents\school2019\ObjectOrientedSystems\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\David V\Documents\school2019\ObjectOrientedSystems\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\David V\Documents\school2019\ObjectOrientedSystems\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\David V\Documents\school2019\ObjectOrientedSystems\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
